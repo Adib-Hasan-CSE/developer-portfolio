@@ -38,7 +38,7 @@ section {
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 nav ul {
@@ -227,3 +227,4 @@ height: 64px;
 .contact a{
     text-decoration: none;
 }
+
